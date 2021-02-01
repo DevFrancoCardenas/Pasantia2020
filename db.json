@@ -1,0 +1,287 @@
+{
+  "especialidades": [
+    {
+        "id": 2,
+        "name": "Desarrollo frontend con React.js",
+        "subtitle": "El camino para aprender React desde cero hasta crear tu primera aplicación real",
+        "information": "En esta especialidad aprenderás lo necesario para entender desde las bases de React",
+        "level": "AVANZADO",
+        "picture": "https://colorlib.com/wp/wp-content/uploads/sites/2/react-dev-tools-logo.jpg",
+        "slug": "react",
+        "is_visible": true,
+        "is_comming": false
+    }
+],
+  "cursos": [
+    {
+        "id": 3,
+        "name": "Programación Desde Cero",
+        "subtitle": "Programar no se trata de código, se trata de lógica. Este curso te enseña la lógica que te permitirá dominar cualquier lenguaje.",
+        "picture": "https://internetpasoapaso.com/wp-content/uploads/%C2%BFC%C3%B3mo-crear-una-Aplicaci%C3%B3n-WEB-Progresiva-PWA-desde-cero-con-conocimientos-b%C3%A1sicos-de-programaci%C3%B3n-Gu%C3%ADa-paso-a-paso.jpg",
+        "information": "La programación puede parecer intimidante al principio,",
+        "you_learn": "<li>Comprender los fundamentos de programación</li>\n<li>Comprender la lógica que está detrás de cualquier lenguaje</li>\n<li>Resolver ejercicios de olimpiadas de programación</li>",
+        "requirements": "<li>Ninguno (saber encender una computadora y utilizarla). Este curso es desde cero y solo necesitas querer aprender a programar.</li>",
+        "level": "BEGIN",
+        "course_type": "COURSE",
+        "visible": true,
+        "comming": false,
+        "comming_date": "2017-02-06T17:00:00Z",
+        "on_sale": false,
+        "free": true,
+        "slug": "programacion"
+    }
+  ],
+  "profesores": [
+    {
+        "id": 1,
+        "name": "Alvaro Felipe",
+        "picture": "https://api.ed.team/files/avatars/c5514eb4-5e0d-44de-aef2-67bea4160bb4.jpg",
+        "country": "PERU"
+    },
+    {
+        "id": 2,
+        "name": "Alexys Lozada",
+        "picture": "https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg",
+        "country": "COLOMBIA"
+    },
+    {
+        "id": 3,
+        "name": "Beto Quiroga",
+        "picture": "https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
+        "country": "BOLIVIA"
+    }
+  ],
+  "posts": [
+    {
+      "id": 2,
+      "author": "Cosme Fulanito",
+      "title": "Por favor no escribir en mayúsculas",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Etiam varius in erat id euismod."
+    },
+    {
+      "id": 1,
+      "author": "Cosme Fulanito",
+      "title": "Ayuda con CSS grid Urgente!!",
+      "fecha": "20/07/2019 a las 10:45",
+      "content": "Etiam varius in erat id euismod."
+    }
+  ],
+  "clase": [{
+      "id": 123,
+      "name": "Introducción al curso React desde cero",
+      "video": "48157338"
+  }],
+  "curso": [{
+    "id": 1,
+    "name": "React.js Desde Cero",
+    "subtitle": "Programa tus aplicaciones web con la librería frontend que usa Facebook e Instagram.",
+    "picture": "https://blog.hotmart.com/blog/2017/06/plataforma-EAD-670x419.png",
+    "information": "React.js es la librería frontend ",
+    "you_learn": "<li>Configuración del entorno de desarrollo</li>\n<li>Sintaxis JSX</li>\n<li>El poder de los componentes</li>",
+    "requirements": "<li><a href=\"https://ed.team/cursos/html\" target=\"_blank\">HTML</a></li>\n<li><a href=\"https://ed.team/cursos/javascript\" target=\"_blank\">Javascript desde cero</a></li>\n<li><a href=\"https://ed.team/cursos/js-poo\" target=\"_blank\">Javascript Orientado a Objetos</a></li>",
+    "level": "BEGIN",
+    "course_type": "COURSE",
+    "visible": true,
+    "comming": false,
+    "comming_date": "2019-05-30T15:00:00Z",
+    "slug": "react",
+    "data": {
+        "class_count": 4,
+        "subject_count": 27,
+        "specialities": [
+            {
+                "id": 1,
+                "name": "Desarrollo frontend con React.js",
+                "subtitle": "El camino para aprender React desde cero hasta crear tu primera aplicación real",
+                "information": "En esta especialidad aprenderás lo necesario para entender desde las bases de React,",
+                "level": "AVANZADO",
+                "picture": "https://blog.hotmart.com/blog/2017/06/plataforma-EAD-670x419.png",
+                "slug": "react"
+            }
+        ],
+        "classes": [
+            {
+                "class": {
+                    "id": 812,
+                    "course_id": 180,
+                    "emission_at": "2019-05-30T00:00:00Z",
+                    "title": "Comenzando con React",
+                    "week_at": 1,
+                    "slug": "",
+                    "description": "Entenderás para qué sirve React",
+                    "created_at": "2019-04-25T14:09:54.706154Z",
+                    "updated_at": "2019-05-04T01:41:31.374016Z"
+                },
+                "subject_count": 7,
+                "subjects": [
+                    {
+                        "subject": {
+                            "id": 4424,
+                            "class_id": 812,
+                            "title": "1.1 - ¿Qué es React?",
+                            "video_url": "https://player.vimeo.com/external/339569988.m3u8?s=83227f612babcc1398d43709aafa33a417cbdbed",
+                            "is_public": true,
+                            "duration": "0000-01-01T00:08:00Z",
+                            "duration_string_format": "00:08:00",
+                            "notes": "  ",
+                            "with_subscription": false,
+                            "allow_notes": true,
+                            "available": true,
+                            "slug": "",
+                            "created_at": "2019-04-25T14:10:33.920808Z",
+                            "updated_at": "2019-05-31T12:52:28.629651Z"
+                        },
+                        "subject_resources": []
+                    }
+                ]
+            },
+            {
+                "class": {
+                    "id": 814,
+                    "course_id": 180,
+                    "emission_at": "2019-06-06T00:00:00Z",
+                    "title": "Componentes",
+                    "week_at": 3,
+                    "slug": "",
+                    "description": "Los componentes son los bloques en los que divides la interfaz",
+                    "created_at": "2019-04-25T14:17:22.65844Z",
+                    "updated_at": "2019-05-04T01:42:17.217974Z"
+                },
+                "subject_count": 7,
+                "subjects": [
+                    {
+                        "subject": {
+                            "id": 4433,
+                            "class_id": 814,
+                            "title": "2.1 - Subiendo proyecto a Github",
+                            "is_public": false,
+                            "duration": "0000-01-01T00:11:21Z",
+                            "duration_string_format": "00:11:21",
+                            "notes": "  ",
+                            "with_subscription": true,
+                            "allow_notes": true,
+                            "available": true,
+                            "slug": "",
+                            "created_at": "2019-04-25T14:21:51.37304Z",
+                            "updated_at": "2019-06-06T15:15:02.949304Z"
+                        },
+                        "subject_resources": []
+                    }
+                ]
+            }            
+        ]
+    }
+  }],
+  "especialidad": [{
+    "id": 1,
+    "slug": "react",
+    "data": {
+        "id": 17,
+        "name": "Desarrollo frontend con React.js",
+        "subtitle": "El camino para aprender React desde cero hasta crear tu primera aplicación real",
+        "information": "En esta especialidad aprenderás lo necesario para entender desde las bases de React",
+        "level": "AVANZADO",
+        "picture": "https://blog.hotmart.com/blog/2017/06/plataforma-EAD-670x419.png",
+        "slug": "react",
+        "is_visible": true,
+        "is_sale": true,
+        "is_free": false,
+        "is_comming": false,
+        "duration": "0001-01-01T00:00:00Z",
+        "comming_date": "2019-05-30T13:30:00Z",
+        "video": "",
+        "created_at": "2019-04-27T01:53:04.022607Z",
+        "updated_at": "2019-06-02T22:14:56.154266Z",
+        "course_count": 4,
+        "subject_count": 106,
+        "abilities": [
+            {
+                "id": 76,
+                "speciality_id": 17,
+                "description": "Bases de JSX",
+                "created_at": "2019-04-27T12:42:46.127868Z",
+                "updated_at": "0001-01-01T00:00:00Z"
+            }
+        ],
+        "features": [
+            {
+                "id": 58,
+                "speciality_id": 17,
+                "name": "4 cursos",
+                "icon": "speciality__courses-count",
+                "created_at": "2019-04-27T12:06:35.892304Z",
+                "updated_at": "0001-01-01T00:00:00Z"
+            }
+        ],
+        "knowledge": [
+            {
+                "id": 30,
+                "speciality_id": 17,
+                "description": "HTML",
+                "url": "https://ed.team/cursos/html",
+                "created_at": "2019-04-27T12:45:15.570174Z",
+                "updated_at": "0001-01-01T00:00:00Z"
+            }
+            
+        ],
+        "courses": [
+            {
+                "id": 183,
+                "name": "Plataforma de educación online con React.js",
+                "subtitle": "Aprende a crear tu propia aplicación de cursos con React.js y basada en la experiencia de EDteam.",
+                "picture": "https://www.habilweb.com/wp-content/uploads/2018/11/plataforma-de-educacion-online.png",
+                "information": "En este Workshop aplicarás los conceptos de React.js",
+                "you_learn": "<li>Planificar y estructurar un proyecto</li>\n<li>Escribir componentes según atomic design</li>\n<li>Utilizar el estado global</li>\n<li>Desplegar tu app en un servidor</li>",
+                "requirements": "<li><a href=\"https://ed.team/cursos/react\" target=\"_blank\">React desde cero</a></li>\n<li><a href=\"https://ed.team/cursos/react-route\"  target=\"_blank\">React: Rutas, APIs & Hooks</a></li>\n<li><a href=\"https://ed.team/cursos/react-state\" target=\"_blank\">React: Manejo del estado</a></li>",
+                "level": "HIGH",
+                "is_live": false,
+                "course_type": "WORKSHOP",
+                "visible": true,
+                "comming": true,
+                "comming_date": "2019-07-25T15:00:00Z",
+                "on_sale": true,
+                "free": false,
+                "for_premium": false,
+                "slug": "workshop-react",
+                "is_inscription": false,
+                "is_private": false,
+                "duration": "0001-01-01T00:00:00Z",
+                "course_hours": "5",
+                "video": "",
+                "live_end_date": "2019-08-08T00:00:00Z",
+                "created_at": "2019-04-27T01:15:20.733093Z",
+                "updated_at": "2019-07-25T00:01:01.435491Z",
+                "professor": [
+                    {
+                        "id": 1437,
+                        "firstname": "Beto",
+                        "lastname": "Quiroga",
+                        "email": "beto@ed.team",
+                        "gender": "",
+                        "birthdate": "1990-02-22T00:00:00Z",
+                        "country_id": 4,
+                        "city": "Santa Cruz",
+                        "country_name": "Bolivia",
+                        "picture": "avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
+                        "profile_thumbnail": "avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg",
+                        "hireme": false,
+                        "biography": "Hace 6 años conocí Drupal y su gran comunidad. ",
+                        "degree_id": 0,
+                        "role_id": 1,
+                        "confirmed_email": true,
+                        "identification_type": "DNI",
+                        "identification": "12",
+                        "is_staff": true,
+                        "phone_number": "",
+                        "address": "",
+                        "is_subscription": true,
+                        "created_at": "2018-02-01T03:41:39.822331Z",
+                        "updated_at": "2019-06-14T10:24:06.64808Z"
+                    }
+                ]
+            }
+        ]
+    }
+  }]
+}
